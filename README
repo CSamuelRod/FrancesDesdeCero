@@ -1,0 +1,18 @@
+🇫🇷 Francés Desde Cero - Blog Educativo
+Este es un proyecto de blog interactivo diseñado para la enseñanza del idioma francés desde un nivel principiante hasta intermedio. El objetivo es ofrecer una estructura de aprendizaje clara, visual y fácil de navegar para estudiantes autónomos.
+
+🚀 Características
+Contenido Estructurado: Dividido en tres fases (Fundamentos, Construcción y Expansión) con 12 capítulos detallados.
+
+Diseño Responsive: Optimizado para estudiar tanto en ordenadores como en dispositivos móviles.
+
+Navegación Dinámica: Navbar inteligente cargada mediante JavaScript con submenús desplegables para saltar directamente a cada capítulo.
+
+Interfaz Limpia: Uso de tablas de conjugación, cajas de ejemplos resaltadas y secciones de ejercicios prácticos.
+
+🛠️ Tecnologías utilizadas
+HTML5: Estructura semántica.
+
+CSS3: Diseño personalizado, sistema de rejillas (Grid) y variables globales para una estética coherente.
+
+JavaScript (Vanilla): Inyección dinámica de componentes para evitar la repetición de código y mejorar la mantenibilidad.
