@@ -40,8 +40,8 @@ document.addEventListener("DOMContentLoaded", function() {
                 <li class="dropdown">
                     <a href="${pathPrefix}expansion.html" class="dropbtn">Expansión III ▾</a>
                     <ul class="dropdown-content">
-                        <li><a href="${pathPrefix}expansion.html#cap11">Cap 11: Vocabulario Avanzado</a></li>
-                        <li><a href="${pathPrefix}expansion.html#cap12">Cap 12: Conversación Cotidiana</a></li>
+                        <li><a href="${pathPrefix}expansion.html#cap11">Cap 11: Opiniones y conectores</a></li>
+                        <li><a href="${pathPrefix}expansion.html#cap12">Cap 12: Situaciones reales</a></li>
                     </ul>
                 </li>
             </ul>
